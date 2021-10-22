@@ -27,7 +27,7 @@
 
 
 
-##  Problem 3.4: WAP to count no. of characters, whitespace,tabs and digits in a string.
+##  Problem 3.3: WAP to count no. of characters, whitespace,tabs and digits in a string.
        Date - 20/08/2021 
 
 ```
